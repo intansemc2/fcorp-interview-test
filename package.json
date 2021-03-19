@@ -1,0 +1,24 @@
+{
+  "name": "fcorp-interview-test",
+  "version": "1.0.0",
+  "description": "FCORP là Công ty hoạt động trong lĩnh vực truyền thông về tài chính và đầu tư tài chính. FCORP phát triển và chủ quản của các trang diễn đàn tài chính, trang tin tổng hợp tài chính và các hoạt động báo chí online về lĩnh vực tài chính nhằm hỗ trợ các hoạt động đầu tư tài chính của nhà đầu tư và nơi để các doanh nghiệp có cơ hội truyền thông các hoạt động của mình đến với Nhà đầu tư. Đầu tiên, FCORP rất trân trọng cám ơn bạn đã quan tâm ứng tuyển vào vị trí Chuyên viên lập trình web của chúng tôi. Theo đó, để xác nhận năng lực chuyên môn của bạn phù hợp với vị trí này, xin mời bạn thực hiện bài test như sau:",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jasmine spec/test-search-index-of.js",
+    "main": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/intansemc2/fcorp-interview-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/intansemc2/fcorp-interview-test/issues"
+  },
+  "homepage": "https://github.com/intansemc2/fcorp-interview-test#readme",
+  "dependencies": {
+    "jasmine": "^3.7.0"
+  }
+}
